@@ -88,8 +88,8 @@ body:
     label: Are you running mods on your client?
     description: Select Yes if you are running mods on your client
     options:
-      - Yes
-      - No
+      - "Yes"
+      - "No"
   validations:
     required: true
 - type: textarea
