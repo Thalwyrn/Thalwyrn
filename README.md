@@ -14,6 +14,12 @@ Once in the Issues section, you can:
 
 Please make sure to follow any guidelines or templates provided for issue creation, as they will help in providing relevant and organized information.
 
+## Reporting Exploits or Bugs Privately
+
+If you have discovered a potentially critical security vulnerability, or if you prefer to disclose a bug privately, we encourage you to reach out to us through our dedicated Modmail on our [Discord server](https://discord.thalwyrn.com). 
+
+Please **do not** publicly disclose security vulnerabilities or exploits in the issue tracker. Instead, privately message our Modmail on Discord. This will help us to address the issue promptly and ensure the security of our project.
+
 ## What Belongs in the Issues Section
 
 The following list provides examples of topics that are appropriate for discussion in this repository:
@@ -22,7 +28,6 @@ The following list provides examples of topics that are appropriate for discussi
 - Requesting new features or enhancements.
 - Discussing potential improvements or optimizations.
 - Seeking clarification on usage or documentation.
-- Pointing out vulnerabilities or security concerns.
 
 ## What Does Not Belong in the Issues Section
 
