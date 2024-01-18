@@ -1,0 +1,45 @@
+description: "Suggest an idea for Thalwyrn"
+title: "[FEAT] "
+labels: [enhancement]
+# assignees: []
+
+body:
+- type: markdown
+  attributes:
+    value: |
+      **Is your feature request related to a problem? Please describe.**
+
+- type: textarea
+  attributes:
+    label: Problem Description
+    description: Provide a brief and concise explanation of the problem. For example, mention the frustration caused by...
+
+- type: markdown
+  attributes:
+    value: |
+      **Describe the solution you'd like**
+
+- type: textarea
+  attributes:
+    label: Desired Solution
+    description: Provide a brief and concise description of the expected outcome.
+
+- type: markdown
+  attributes:
+    value: |
+      **Describe alternatives you've considered**
+
+- type: textarea
+  attributes:
+    label: Alternatives Considered
+    description: Briefly describe any other potential solutions or features you have thought of.
+
+- type: markdown
+  attributes:
+    value: |
+      **Additional context**
+
+- type: textarea
+  attributes:
+    label: Additional Context
+    description: Include any relevant context or attach screenshots related to your feature request here.```

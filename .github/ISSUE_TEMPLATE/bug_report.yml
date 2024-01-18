@@ -45,7 +45,7 @@ body:
 - type: input
   attributes:
     label: Screenshots
-    description: If applicable, add screenshots to help explain your problem.
+    description: If applicable, add screenshots to help explain your problem. (Upload your screenshots to an image hosting service such as [Imgur](https://imgur.com/) and paste the link here.)
 
 - type: markdown
   attributes:
