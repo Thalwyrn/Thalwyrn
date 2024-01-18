@@ -1,10 +1,10 @@
-# [Issues Only Repository](./issues)
+# [Issues Only Repository](https://github.com/Thalwyrn/Thalwyrn/issues)
 
 This repository is **solely dedicated to issue tracking**. As an issues-only repository, it serves as a central hub for reporting and discussing bugs, requesting new features, and addressing any other topics related to this project.
 
 ## How to Use
 
-To submit an issue or to contribute to an existing one, please navigate to the [**Issues**](./issues) section of this repository. You can find it at the top menu of this page, or simply click [here](./issues) to directly access it. 
+To submit an issue or to contribute to an existing one, please navigate to the [**Issues**](https://github.com/Thalwyrn/Thalwyrn/issues) section of this repository. You can find it at the top menu of this page, or simply click [here](https://github.com/Thalwyrn/Thalwyrn/issues) to directly access it. 
 
 Once in the Issues section, you can:
 
