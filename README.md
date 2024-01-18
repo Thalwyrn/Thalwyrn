@@ -37,6 +37,6 @@ While this repository focuses solely on issues, it's essential to ensure the dis
 - Support requests or seeking help with personal coding issues.
 - Off-topic conversations unrelated to the project's development.
 
-For general questions or discussions, you may find better support on our [forums](https://thalwyrn.com) or [discord](https://discord.thalwyrn.com).
+For general questions or discussions, you may find better support on our [forums](https://thalwyrn.com/forum/) or [discord](https://discord.thalwyrn.com).
 
 Thank you for contributing to this project by creating and participating in meaningful discussions in the issues section!
