@@ -47,10 +47,6 @@ body:
     label: Screenshots
     description: If applicable, add screenshots to help explain your problem. (Upload your screenshots to an image hosting service such as [Imgur](https://imgur.com/) and paste the link here.)
 
-- type: markdown
-  attributes:
-    value: |
-      **Desktop (please complete the following information):**
 - type: dropdown
   attributes:
     label: OS
