@@ -91,7 +91,7 @@ body:
 - type: textarea
   attributes:
     label: If Yes, please list your mods
-    description: If you selected Yes, please list your mods here.
+    description: If you selected Yes, please list your mods here. If you are using a modpack, please link the modpack here.
 - type: input
   attributes:
     label: Client Version
