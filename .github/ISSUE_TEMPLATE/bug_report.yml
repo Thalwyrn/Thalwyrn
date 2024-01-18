@@ -1,0 +1,112 @@
+name: Bug report
+description: Create a report to help us improve
+title: "[BUG] "
+labels: [bug, awaiting-confirmation]
+# assignees: 
+
+body:
+- type: markdown
+  attributes:
+    value: |
+      **Describe the bug**
+- type: textarea
+  attributes:
+    label: Description
+    description: A clear and concise description of what the bug is.
+  validations:
+    required: true
+
+- type: markdown
+  attributes:
+    value: |
+      **To Reproduce**
+- type: textarea
+  attributes:
+    label: Steps to Reproduce
+    description: Steps to reproduce the behavior.
+  validations:
+    required: true
+
+- type: markdown
+  attributes:
+    value: |
+      **Expected behavior**
+- type: textarea
+  attributes:
+    label: Expected Behavior
+    description: A clear and concise description of what you expected to happen.
+  validations:
+    required: true
+
+- type: markdown
+  attributes:
+    value: |
+      **Screenshots**
+- type: input
+  attributes:
+    label: Screenshots
+    description: If applicable, add screenshots to help explain your problem.
+
+- type: markdown
+  attributes:
+    value: |
+      **Desktop (please complete the following information):**
+- type: dropdown
+  attributes:
+    label: OS
+    description: Select your operating system
+    options:
+      - Windows
+      - Linux
+      - Mac
+      - Other
+  validations:
+    required: true
+
+- type: input
+  attributes:
+    label: If Other, please specify
+    description: If you selected Other, please specify your operating system here.
+- type: dropdown
+  attributes:
+    label: Launcher
+    description: Select your launcher
+    options:
+      - Standard
+      - ATLauncher
+      - Prism
+      - Badlion
+      - Other
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: If Other, please specify
+    description: If you selected Other, please specify your launcher here.
+- type: dropdown
+  attributes:
+    label: Are you running mods on your client?
+    description: Select Yes if you are running mods on your client
+    options:
+      - Yes
+      - No
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: If Yes, please list your mods
+    description: If you selected Yes, please list your mods here.
+- type: input
+  attributes:
+    label: Client Version
+    description: e.g. 1.19.4, 1.20.2, (This is the version of your client, not the server.)
+  validations:
+    required: true
+- type: markdown
+  attributes:
+    value: |
+      **Additional context**
+- type: textarea
+  attributes:
+    label: Additional Context
+    description: Add any other context about the problem here.
