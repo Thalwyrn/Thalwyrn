@@ -98,10 +98,6 @@ body:
     description: e.g. 1.19.4, 1.20.2, (This is the version of your client, not the server.)
   validations:
     required: true
-- type: markdown
-  attributes:
-    value: |
-      **Additional context**
 - type: textarea
   attributes:
     label: Additional Context
