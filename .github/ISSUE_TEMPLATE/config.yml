@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Community Support
+    url: https://discord.thalwyrn.com
+    about: Please ask general questions here
+  - name: Found an exploit?
+    url: hhttps://discord.thalwyrn.com
+    about: Please report exploits or private bugs here, through our Modmail
