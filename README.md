@@ -1,4 +1,4 @@
-# Issues Only Repository
+# [Issues Only Repository](./issues)
 
 This repository is **solely dedicated to issue tracking**. As an issues-only repository, it serves as a central hub for reporting and discussing bugs, requesting new features, and addressing any other topics related to this project.
 
